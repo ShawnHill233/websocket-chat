@@ -1,6 +1,6 @@
 $ ->
 
-  client = new WebSocketRails("localhost:3000/websocket")
+  client = new WebSocketRails("#{window.location.host}/websocket")
 
   client.bind 'message_received', (data) ->
     msg = data.message
