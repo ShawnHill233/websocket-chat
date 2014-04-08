@@ -10,4 +10,4 @@ To host applications that uses thin just include thin in your Gemfile. We will t
 
 == Deploying
 
-Read <a href="https://github.com/speedyrails/tubesock-chat/blob/master/config/deploy.rb">deploy.rb</a>
+Read {link}[https://github.com/speedyrails/tubesock-chat/blob/master/config/deploy.rb]
