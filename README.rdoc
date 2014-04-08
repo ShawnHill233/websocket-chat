@@ -7,3 +7,7 @@ Just run `rails server` and open multiple browser windows, then hang out with yo
 == Hosting in speedyrails
 
 To host applications that uses thin just include thin in your Gemfile. We will take care of the rest.
+
+== Deploying
+
+Read <a href="https://github.com/speedyrails/tubesock-chat/blob/master/config/deploy.rb">deploy.rb</a>
